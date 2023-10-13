@@ -13,6 +13,13 @@
       "text": "2.html",
       "text_made_by": "Christian De Molli",
       "questions": "2_questions.json"
+    },
+    {
+      "date": "18/09/2022",
+      "title": "Lezione 3",
+      "text": "3.html",
+      "text_made_by": "Christian De Molli",
+      "questions": "3_questions.json"
     }
   ]
 }  
